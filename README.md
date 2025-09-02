@@ -1,9 +1,9 @@
-# Exp-No: 02 - Write and simulate seven segment display using Verilog HDL and verify with testbench 
+# Exp-No: 01 - Write and simulate 4:1 Multiplexer using Verilog HDL and verify with testbench 
 
 
 **Aim:** <br>
 <br>
-&emsp;&emsp;To design and simulate a Seven Segment using Verilog HDL and verify its functionality through a testbench using the Vivado 2023.1 simulation environment. 
+&emsp;&emsp;To design and simulate a 4:1 Mux using Verilog HDL and verify its functionality through a testbench using the Vivado 2023.1 simulation environment. 
 <br>
 **Apparatus Required:** <br>
 <br>
